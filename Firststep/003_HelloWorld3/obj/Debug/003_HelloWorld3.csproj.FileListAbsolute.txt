@@ -1,0 +1,1 @@
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\obj\Debug\003_HelloWorld3.csproj.CoreCompileInputs.cache
