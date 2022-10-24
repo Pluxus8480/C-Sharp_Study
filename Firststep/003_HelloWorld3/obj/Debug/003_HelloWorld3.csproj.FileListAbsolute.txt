@@ -1,1 +1,7 @@
 D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\obj\Debug\003_HelloWorld3.csproj.CoreCompileInputs.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe.config
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\bin\Debug\003_HelloWorld3.pdb
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\obj\Debug\003_HelloWorld3.csprojAssemblyReference.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\obj\Debug\003_HelloWorld3.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\003_HelloWorld3\obj\Debug\003_HelloWorld3.pdb
