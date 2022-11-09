@@ -1,0 +1,7 @@
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\bin\Debug\004_HelloWorld4.exe.config
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\bin\Debug\004_HelloWorld4.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\bin\Debug\004_HelloWorld4.pdb
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\obj\Debug\004_HelloWorld4.csprojAssemblyReference.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\obj\Debug\004_HelloWorld4.csproj.CoreCompileInputs.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\obj\Debug\004_HelloWorld4.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\004_HelloWorld4\obj\Debug\004_HelloWorld4.pdb

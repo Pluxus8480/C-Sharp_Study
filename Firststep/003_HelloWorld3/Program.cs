@@ -27,6 +27,8 @@ namespace _003_HelloWorld3
         static int Main(string[] args)
         {
             Console.WriteLine("aaa{0}, bbb{1}",1, "ggg");
+            Console.Write("{0}{1}{2}", 1, 2, 3);
+            Console.WriteLine("static int Main(string[] args)");
             return 0;
         }
 

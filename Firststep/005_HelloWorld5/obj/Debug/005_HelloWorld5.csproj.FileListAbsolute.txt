@@ -1,0 +1,6 @@
+D:\csharpstudy\C-Sharp_Study\Firststep\005_HelloWorld5\bin\Debug\005_HelloWorld5.exe.config
+D:\csharpstudy\C-Sharp_Study\Firststep\005_HelloWorld5\bin\Debug\005_HelloWorld5.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\005_HelloWorld5\bin\Debug\005_HelloWorld5.pdb
+D:\csharpstudy\C-Sharp_Study\Firststep\005_HelloWorld5\obj\Debug\005_HelloWorld5.csproj.CoreCompileInputs.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\005_HelloWorld5\obj\Debug\005_HelloWorld5.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\005_HelloWorld5\obj\Debug\005_HelloWorld5.pdb
