@@ -1,7 +1,6 @@
 D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\bin\Debug\Firststep.exe.config
 D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\bin\Debug\Firststep.exe
 D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\bin\Debug\Firststep.pdb
-D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\obj\Debug\Firststep.csprojAssemblyReference.cache
 D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\obj\Debug\Firststep.csproj.CoreCompileInputs.cache
 D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\obj\Debug\Firststep.exe
 D:\csharpstudy\C-Sharp_Study\Firststep\Firststep\obj\Debug\Firststep.pdb

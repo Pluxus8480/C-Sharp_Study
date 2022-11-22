@@ -1,0 +1,15 @@
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\008_Data1.exe
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\008_Data1.deps.json
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\008_Data1.runtimeconfig.json
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\008_Data1.runtimeconfig.dev.json
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\008_Data1.dll
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\ref\008_Data1.dll
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\bin\Debug\net5.0\008_Data1.pdb
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.AssemblyInfoInputs.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.AssemblyInfo.cs
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.csproj.CoreCompileInputs.cache
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.dll
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\ref\008_Data1.dll
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.pdb
+D:\csharpstudy\C-Sharp_Study\Firststep\_008_Data1\obj\Debug\net5.0\008_Data1.genruntimeconfig.cache

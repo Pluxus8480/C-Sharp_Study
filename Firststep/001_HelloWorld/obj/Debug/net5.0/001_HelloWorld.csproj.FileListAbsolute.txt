@@ -5,7 +5,6 @@ D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\bin\Debug\net5.0\001_Hello
 D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.dll
 D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\bin\Debug\net5.0\ref\001_HelloWorld.dll
 D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\bin\Debug\net5.0\001_HelloWorld.pdb
-D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.csprojAssemblyReference.cache
 D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
 D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.AssemblyInfoInputs.cache
 D:\csharpstudy\C-Sharp_Study\Firststep\001_HelloWorld\obj\Debug\net5.0\001_HelloWorld.AssemblyInfo.cs
